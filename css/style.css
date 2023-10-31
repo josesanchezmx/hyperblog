@@ -9,10 +9,24 @@ body {
 
 .container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 2px solid #0c0c0c;
     margin: 0 auto;
+}
+.cabecera {
+    box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.75);
+    background-color: #33A;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+
+.tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 .container h1 {
