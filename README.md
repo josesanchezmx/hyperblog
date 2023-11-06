@@ -10,6 +10,7 @@ En este curso vemos de todo:
 * Trucos muy locos que no te enseñan en otra escuela online.
 * Creado por el increíble Platzi Team🚀
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
 
 Y como amable recordatorio: **Este redme.md es un ejemplo** si llegas acá **mejor ve al** [Curso][(https://platzi.com/cursos/git-github/)] y nunca pares de aprender 🚀.
 **TEAM PLAZI 💚🚀**
